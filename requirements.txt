@@ -1,0 +1,8 @@
+libraries required :
+- opencv
+- numpy
+- easyocr
+- tkinter
+
+External software :
+- DroidCam (Windows client and android app) to connect external camera to pc
